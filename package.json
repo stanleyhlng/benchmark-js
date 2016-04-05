@@ -1,0 +1,17 @@
+{
+  "name": "benchmark-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/babel-node object-to-string.js"
+  },
+  "author": "Stanley Ng <stanleyhlng@yahoo.com.hk",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^6.0.2",
+    "benchmark": "^2.1.0",
+    "faker": "^3.1.0",
+    "node-babel": "^0.1.2"
+  }
+}
